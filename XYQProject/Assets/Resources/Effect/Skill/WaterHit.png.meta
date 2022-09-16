@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: a9f78b655c753a148854da820c08bb4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8383696990321182065
+    second: WaterHit_0
+  - first:
+      213: -7630289705833090935
+    second: WaterHit_1
+  - first:
+      213: 8218110319839402325
+    second: WaterHit_2
+  - first:
+      213: -924544613043920418
+    second: WaterHit_3
+  - first:
+      213: -2099836046914961344
+    second: WaterHit_4
+  - first:
+      213: 3951402218954377840
+    second: WaterHit_5
+  - first:
+      213: -4023568708158629481
+    second: WaterHit_6
+  - first:
+      213: -169490065622122717
+    second: WaterHit_7
+  - first:
+      213: 1515245798338045762
+    second: WaterHit_8
+  - first:
+      213: -5406773200162764400
+    second: WaterHit_9
+  - first:
+      213: 1086465533280505390
+    second: WaterHit_10
+  - first:
+      213: -7934731317349321475
+    second: WaterHit_11
+  - first:
+      213: 8447215219828685215
+    second: WaterHit_12
+  - first:
+      213: 8079132173854452086
+    second: WaterHit_13
+  - first:
+      213: 1161277200136178676
+    second: WaterHit_14
+  - first:
+      213: -3899452766334255287
+    second: WaterHit_15
+  - first:
+      213: -8091440326754986571
+    second: WaterHit_16
+  - first:
+      213: 1324275045985894454
+    second: WaterHit_17
+  - first:
+      213: -8213224568353418565
+    second: WaterHit_18
+  - first:
+      213: -1021917709166304379
+    second: WaterHit_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterHit_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 416
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750b947effd85470800000000000000
+      internalID: 8383696990321182065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 405
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12488a29b5b23f0800000000000000
+      internalID: -924544613043920418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 399
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040c211ad32ebd2e0800000000000000
+      internalID: -2099836046914961344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 395
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a4779f16336d630800000000000000
+      internalID: 3951402218954377840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_6
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 391
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d3d4e3996928c0800000000000000
+      internalID: -4023568708158629481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 201
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0994237bb6847f4b0800000000000000
+      internalID: -5406773200162764400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 205
+        width: 151
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ec3eb65a6e31f00800000000000000
+      internalID: 1086465533280505390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 199
+        width: 147
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f997927bc798a3570800000000000000
+      internalID: 8447215219828685215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 201
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679260438e7de1070800000000000000
+      internalID: 8079132173854452086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 211
+        width: 125
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb80e7f57fad1010800000000000000
+      internalID: 1161277200136178676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b59f72a4ed65bf80800000000000000
+      internalID: -8091440326754986571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63047e45325c06210800000000000000
+      internalID: 1324275045985894454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_18
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 7
+        width: 115
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb298c645c3c40e80800000000000000
+      internalID: -8213224568353418565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterHit_19
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 21
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5832673024b61d1f0800000000000000
+      internalID: -1021917709166304379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e57856e55a0c5894280491f45835dc01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
